@@ -17,6 +17,9 @@ I.~Gorton, J.~Klein, Distribution, data, deployment, STC 2015 (2015) 78.
 \bibitem{Nadal}
 S.~Nadal, V.~Herrero, O.~Romero, A.~Abelló, X.~Franch, S.~Vansummeren, D.~Valerio, A software reference architecture for semantic-aware big data systems, Information and software technology 90 (2017) 75--92.
 
+\bibitem{ataei2023towards}
+P.~Ataei, A.~Litchfield, Towards a domain-driven distributed reference architecture for big data systems, in: AMCIS 2023, 2023.
+
 \bibitem{DataBricksSurvey}
 M.~technology review insights in partnership~with Databricks, \href{https://databricks.com/p/whitepaper/mit-technology-review-insights-report}{Building a high-performance data organization} (2021).
 \newline\urlprefix\url{https://databricks.com/p/whitepaper/mit-technology-review-insights-report}
@@ -39,9 +42,6 @@ P.~Ataei, A.~Litchfield, The state of big data reference architectures: a system
 
 \bibitem{brackenbury2018draining}
 W.~Brackenbury, R.~Liu, M.~Mondal, A.~J. Elmore, B.~Ur, K.~Chard, M.~J. Franklin, Draining the data swamp: A similarity-based approach, in: Proceedings of the workshop on human-in-the-loop data analytics, 2018, pp. 1--7.
-
-\bibitem{ataei2023towards}
-P.~Ataei, A.~Litchfield, Towards a domain-driven distributed reference architecture for big data systems, in: AMCIS 2023, 2023.
 
 \bibitem{AtaeiHype}
 B.~B. Rada, P.~Ataeib, Y.~Khakbizc, N.~Akbarzadehd, The hype of emerging technologies: Big data as a service, International Journal of Control Theory and Applications (2017).
